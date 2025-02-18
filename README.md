@@ -29,7 +29,7 @@ Men dasturlash sohasida ko'p yillardan buyon shug'ullanib kelaman. Sohaga bo'lga
 
 ### ✉️ Mening bilan bog'laning
 📧 **Email:** [toirovsardor62@gmail.com](mailto:toirovsardor62@gmail.com)
-📲 **Telegram:** [Telegram Profil](https://t.me/username)
+📲 **Telegram:** [Telegram Profil](https://t.me/sardor_toirov3)
 
 ---
 
