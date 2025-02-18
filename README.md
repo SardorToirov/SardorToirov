@@ -1,4 +1,4 @@
-### 👋 Salom, men [Sardor]!
+### 👋 Salom, mening ismim [Sardor]!
 
 Men dasturlash sohasida ko'p yillardan buyon shug'ullanib kelaman. Sohaga bo'lgan qiziqishim tufayli yangi loyihalar yaratish va texnologiyalarni o'rganishni juda yaxshi ko'raman. Mening maqsadim - barcha uchun foydali bo'lgan innovatsion yechimlarni taqdim etish va o'z tajribamni boshqalar bilan ulashish.
 
