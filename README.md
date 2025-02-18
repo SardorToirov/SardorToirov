@@ -1,16 +1,29 @@
-## Hi there 👋
+Salom, mening ismim [Sardor]!
+GitHub status LinkedIn
 
+Men dasturlash sohasida ko'p yillardan buyon shug'ullanib kelaman. Sohaga qiziqishm tufayli yangi loyhalar yaratish va texnalogiyalarni o'rganishni juda yaxshi ko'raman. 
+Mening maqsadim - barcha uchun foydali bo'lgan inavatsion yechimlar berish va o'z tajribamni boshqalar bilan ulashish.
 
-**SardorToirov/SardorToirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Texnalogiyalar
+Dasturlash tillari: Python,C
+Veb-texnalogiyalar va frameworklar: HTML, CSS, Django
+API texnalogiyam: Django-rest-framework
+Ma'lumotlar bazalari: PostgreSQL, Sqlite3
+Qo'shimcha: Git, VS Code,
 
-Here are some ideas to get you started:
+✉️ Mening bilan bog'laning
+Email: toirovsardor62@gmail.com
+Telegram: Telegram Profil
+📈 Statistikalar
+GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💬 Mening qiziqishlarim
+Dasturlash
+Monkeytype link
+Hacking
 
+🎨 Ilhomlantiruvchi Sitata
+"Dasturlash — bu san'at. Har bir dasturchi o'z dasturida bir hayotni yaratadi." — Steve Jobs
+
+🤝 Hamkorlik
+Agar sizda biror loyiha bo'yicha hamkorlik qilish yoki shunchaki suhbatlashish niyatingiz bo'lsa, men bilan bog'laning! Sizga yordam bera olganimdan faqat xursand bo'laman 😊
