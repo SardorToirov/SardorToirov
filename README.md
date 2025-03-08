@@ -1,43 +1,58 @@
-# 👋 Hello, I'm Sardor!  
+<h1 align="center">👋 Hello, I'm Sardor!</h1>  
 
 I have been working in the field of programming for many years. My passion for technology drives me to create new projects and constantly learn new technologies. My goal is to provide innovative solutions that benefit everyone and to share my experience with others.  
 
-## 🛠 Technologies  
+---
 
-### Programming Languages:  
-- Python  
-- C  
+## 🛠 Tech Stack  
 
-### Web Technologies & Frameworks:  
-- HTML  
-- CSS  
-- Django  
+### 💻 Programming Languages:  
+- ✅ Python  
+- ✅ C  
 
-### API Technologies:  
-- DRF (Django Rest Framework)  
+### 🌐 Web Technologies & Frameworks:  
+- ✅ HTML  
+- ✅ CSS  
+- ✅ Django  
 
-### Databases:  
-- PostgreSQL  
-- SQLite  
+### 🔌 API Development:  
+- ✅ DRF (Django Rest Framework)  
 
-### Additional Tools:  
-- Git  
-- VS Code  
+### 🗄️ Databases:  
+- ✅ PostgreSQL  
+- ✅ SQLite  
 
-## ✉️ Contact Me  
-📧 Email: toirovsardor62@gmail.com  
-📲 Telegram: [Your Telegram Profile]  
+### 🔧 Tools & Platforms:  
+- ✅ Git  
+- ✅ VS Code  
 
-## 📈 Statistics  
-![Sardor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+---
 
-## 💬 My Interests  
-- Programming 🖥️  
-- Monkeytype ⌨️  
-- Hacking 🔓  
+## 📊 GitHub Statistics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
+</p>  
+
+---
+
+## 💬 Interests  
+🎯 Programming 🖥️  
+🎯 Monkeytype ⌨️  
+🎯 Ethical Hacking 🔓  
+
+---
 
 ## 🎨 Inspirational Quote  
-*"Programming is an art. Every programmer creates a life within their code."* — Steve Jobs  
+> *"Programming is an art. Every programmer creates a life within their code."* — Steve Jobs  
 
-## 🤝 Collaboration  
-If you're interested in collaborating on a project or just having a conversation, feel free to reach out! I'd be happy to help 😊  
+---
+
+## 🤝 Let's Connect!  
+📧 **Email**: [toirovsardor62@gmail.com](mailto:toirovsardor62@gmail.com)  
+📲 **Telegram**: [Sardor Toirov](https://t.me/sardor_toirov3)  
+
+---
+
+### 🚀 Collaboration  
+If you're interested in working together on a project or just want to chat, feel free to reach out! I'm always open to new ideas and collaborations. 😊  
