@@ -1,54 +1,43 @@
-### 👋 Salom, mening ismim [Sardor]!
+# 👋 Hello, I'm Sardor!  
 
-Men dasturlash sohasida ko'p yillardan buyon shug'ullanib kelaman. Sohaga bo'lgan qiziqishim tufayli yangi loyihalar yaratish va texnologiyalarni o'rganishni juda yaxshi ko'raman. Mening maqsadim - barcha uchun foydali bo'lgan innovatsion yechimlarni taqdim etish va o'z tajribamni boshqalar bilan ulashish.
+I have been working in the field of programming for many years. My passion for technology drives me to create new projects and constantly learn new technologies. My goal is to provide innovative solutions that benefit everyone and to share my experience with others.  
 
----
+## 🛠 Technologies  
 
-### 🛠 Texnologiyalar
-#### Dasturlash tillari:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Programming Languages:  
+- Python  
+- C  
 
-#### Veb-texnologiyalar va frameworklar:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Web Technologies & Frameworks:  
+- HTML  
+- CSS  
+- Django  
 
-#### API texnologiyam:
-![DRF](https://img.shields.io/badge/Django%20Rest%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
+### API Technologies:  
+- DRF (Django Rest Framework)  
 
-#### Ma'lumotlar bazalari:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### Databases:  
+- PostgreSQL  
+- SQLite  
 
-#### Qo'shimcha:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Additional Tools:  
+- Git  
+- VS Code  
 
----
+## ✉️ Contact Me  
+📧 Email: toirovsardor62@gmail.com  
+📲 Telegram: [Your Telegram Profile]  
 
-### ✉️ Mening bilan bog'laning
-📧 **Email:** [toirovsardor62@gmail.com](mailto:toirovsardor62@gmail.com)
-📲 **Telegram:** [Telegram Profil](https://t.me/sardor_toirov3)
+## 📈 Statistics  
+![Sardor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
 
----
+## 💬 My Interests  
+- Programming 🖥️  
+- Monkeytype ⌨️  
+- Hacking 🔓  
 
-### 📈 Statistikalar
-![Sardorning GitHub Statistikasi](https://github-readme-stats.vercel.app/api?username=Sardor&show_icons=true&theme=radical)
+## 🎨 Inspirational Quote  
+*"Programming is an art. Every programmer creates a life within their code."* — Steve Jobs  
 
----
-
-### 💬 Mening qiziqishlarim
-- Dasturlash 🖥️
-- [Monkeytype](https://monkeytype.com) ⌨️
-- Hacking 🔓
-
----
-
-### 🎨 Ilhomlantiruvchi Sitat
-> "Dasturlash — bu san'at. Har bir dasturchi o'z dasturida bir hayotni yaratadi." — **Steve Jobs**
-
----
-
-### 🤝 Hamkorlik
-Agar sizda biror loyiha bo'yicha hamkorlik qilish yoki shunchaki suhbatlashish niyatingiz bo'lsa, men bilan bog'laning! Sizga yordam bera olganimdan faqat xursand bo'laman 😊
+## 🤝 Collaboration  
+If you're interested in collaborating on a project or just having a conversation, feel free to reach out! I'd be happy to help 😊  
